@@ -68,11 +68,7 @@ void menu() {
                     }
                 }
                 break;
-            case 3:
-                printf("Exiting program.\n");
-            
-            default:
-                printf("Invalid choice! Try again.\n");
+        
         }
     }
 }
